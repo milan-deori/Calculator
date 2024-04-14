@@ -94,7 +94,7 @@ public class calculator implements ActionListener  {
     }
     
     public static void main(String[] args) {
-      
+      new calculator();
         
     }
     public void actionPerformed(ActionEvent e) {
